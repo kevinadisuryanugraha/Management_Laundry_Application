@@ -1,4 +1,4 @@
-# 🧺 @MavinsLaundry: Laundry Point of Sales (POS) System
+# 🧺 Laundry Point of Sales (POS) System
 
 ## Modern Management for Laundry Services
 
@@ -52,8 +52,8 @@ _(Asumsi teknologi utama sama dengan proyek Anda sebelumnya)_
 1.  **Clone Repositori:**
 
     ```bash
-    git clone [https://github.com/kevinadisuryanugraha/mavins-laundry-pos.git](https://github.com/kevinadisuryanugraha/mavins-laundry-pos.git)
-    cd mavins-laundry-pos
+    git clone [https://github.com/kevinadisuryanugraha/Management_Laundry_Application.git](https://github.com/kevinadisuryanugraha/Management_Laundry_Application.git)
+    cd Management_Laundry_Application
     ```
 
 2.  **Instal Dependensi PHP (Composer):**
@@ -82,7 +82,7 @@ _(Asumsi teknologi utama sama dengan proyek Anda sebelumnya)_
     ```bash
     php artisan serve
     ```
-    Aplikasi akan berjalan di `http://127.0.0.1:8000/login`[cite: 566].
+    Aplikasi akan berjalan di `http://127.0.0.1:8000/login`.
 
 ---
 
@@ -92,41 +92,41 @@ _(Asumsi teknologi utama sama dengan proyek Anda sebelumnya)_
 
 ### 1. Otentikasi & Dashboard Utama
 
-|                                                    Halaman Login                                                     |                                                      Dashboard Overview                                                       |
-| :------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------: |
-| ![Login Page](https://raw.githubusercontent.com/kevinadisuryanugraha/mavins-laundry-pos/main/readme_asset/login.png) | ![Dashboard Admin](https://raw.githubusercontent.com/kevinadisuryanugraha/mavins-laundry-pos/main/readme_asset/dashboard.png) |
+|                                                        Halaman Login                                                        |                                                          Dashboard Overview                                                          |
+| :-------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------: |
+| ![Login Page](https://raw.githubusercontent.com/kevinadisuryanugraha/Management_Laundry_Application/readme_asset/login.png) | ![Dashboard Admin](https://raw.githubusercontent.com/kevinadisuryanugraha/Management_Laundry_Application/readme_asset/dashboard.png) |
 
 <br/>
 
 ### 2. Manajemen Member & Layanan
 
-|                                                             Manage Member                                                             |                                                        Manage Layanan (Service)                                                         |
-| :-----------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------: |
-| ![Manage Member Table](https://raw.githubusercontent.com/kevinadisuryanugraha/mavins-laundry-pos/main/readme_asset/manage_member.png) | ![Manage Layanan Table](https://raw.githubusercontent.com/kevinadisuryanugraha/mavins-laundry-pos/main/readme_asset/manage_layanan.png) |
+|                                                                Manage Member                                                                 |                                                            Manage Layanan (Service)                                                            |
+| :------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------: |
+| ![Manage Member Table](https://raw.githubusercontent.com/kevinadisuryanugraha/Management_Laundry_Application/readme_asset/manage_member.png) | ![Manage Layanan Table](https://raw.githubusercontent.com/kevinadisuryanugraha/Management_Laundry_Application/readme_asset/manage_layanan.png) |
 
 <br/>
 
 ### 3. Proses Transaksi
 
-|                                                           Form Create Transaksi                                                            |                                                           Struk Transaksi                                                           |
-| :----------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------: |
-| ![Form Create Transaksi](https://raw.githubusercontent.com/kevinadisuryanugraha/mavins-laundry-pos/main/readme_asset/create_transaksi.png) | ![Struk Transaksi](https://raw.githubusercontent.com/kevinadisuryanugraha/mavins-laundry-pos/main/readme_asset/struk_transaksi.png) |
+|                                                               Form Create Transaksi                                                               |                                                              Struk Transaksi                                                               |
+| :-----------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------: |
+| ![Form Create Transaksi](https://raw.githubusercontent.com/kevinadisuryanugraha/Management_Laundry_Application/readme_asset/create_transaksi.png) | ![Struk Transaksi](https://raw.githubusercontent.com/kevinadisuryanugraha/Management_Laundry_Application/readme_asset/struk_transaksi.png) |
 
 <br/>
 
 ### 4. Detail Transaksi & User Management
 
-|                                                           Detail Transaksi                                                            |                                                            Manajemen User                                                            |
-| :-----------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------: |
-| ![Detail Transaksi](https://raw.githubusercontent.com/kevinadisuryanugraha/mavins-laundry-pos/main/readme_asset/detail_transaksi.png) | ![Manajemen User Table](https://raw.githubusercontent.com/kevinadisuryanugraha/mavins-laundry-pos/main/readme_asset/manage_user.png) |
+|                                                               Detail Transaksi                                                               |                                                               Manajemen User                                                                |
+| :------------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------: |
+| ![Detail Transaksi](https://raw.githubusercontent.com/kevinadisuryanugraha/Management_Laundry_Application/readme_asset/detail_transaksi.png) | ![Manajemen User Table](https://raw.githubusercontent.com/kevinadisuryanugraha/Management_Laundry_Application/readme_asset/manage_user.png) |
 
 <br/>
 
 ### 5. Laporan Transaksi & Keuangan
 
-|                                                               Laporan Transaksi                                                               |                                                              Laporan Keuangan                                                               |
-| :-------------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------: |
-| ![Laporan Transaksi Table](https://raw.githubusercontent.com/kevinadisuryanugraha/mavins-laundry-pos/main/readme_asset/laporan_transaksi.png) | ![Laporan Keuangan Graph](https://raw.githubusercontent.com/kevinadisuryanugraha/mavins-laundry-pos/main/readme_asset/laporan_keuangan.png) |
+|                                                                  Laporan Transaksi                                                                   |                                                                  Laporan Keuangan                                                                  |
+| :--------------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------: |
+| ![Laporan Transaksi Table](https://raw.githubusercontent.com/kevinadisuryanugraha/Management_Laundry_Application/readme_asset/laporan_transaksi.png) | ![Laporan Keuangan Graph](https://raw.githubusercontent.com/kevinadisuryanugraha/Management_Laundry_Application/readme_asset/laporan_keuangan.png) |
 
 ---
 
